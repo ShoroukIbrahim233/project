@@ -1,3 +1,5 @@
 # project
 ## project
-- 1234
+- HTML
+- CSS
+- JAVASCRIPT
